@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(to bottom, #ccffff 0%, #33ccff 100%);  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  font-family: Helvetica,  sans-serif;
+} 
+
+div {
+  background-color: #ffffcc;
+  margin: 10px;
+  padding: 10px;
+  border-style: solid 
+  border-color: #ffcc99;
+  border-width: 5px;
+  border-radius: 5px;
+  width: 500px;
+  margin-left: 25%;
+}
+.back {
+ margin: 25px;
+ padding: 25px;
+ width: 300px;
+ margin-left: 32%;
+ border-radius: 5px;
+}
